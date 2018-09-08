@@ -16,9 +16,11 @@ Some C program created for practices
 (Create a structure to specify data of students given below:- Roll number, Name, Course, Year of joining)
 
 1. joined_student_in_year.c
+
 	a. Function to print names of all students who joined in a particular year.
 
 2. students_data.c
+
 	a. Function to print the data of a student whose roll no. is given
 
 
@@ -35,9 +37,11 @@ Some C program created for practices
 (5-digit integer is entered through the keyboard. WAF to calculate sum of digits of the 5-digit number)
 
 1. sum_of_digits.c
+
 	a. without using recursion
 
 2. sum_of_digits_recursion.c
+
 	a. using recursion
 
 
@@ -46,7 +50,9 @@ Some C program created for practices
 (Program to swap two integers using)
 
 1. swap_call_by_value.c
+
 	a. Call by Value
 
 2. swap_call_by_ref.c
+
 	a. Call by reference
